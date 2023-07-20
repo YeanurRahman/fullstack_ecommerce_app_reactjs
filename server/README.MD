@@ -1,1 +1,0 @@
->Fullstack E-commerce Application using Reactjs
